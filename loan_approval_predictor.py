@@ -1,5 +1,5 @@
 """
-Loan Approval Predictor
+Loan Approval Prediction
 Professional ML Pipeline for Binary Classification
 
 This module provides a complete loan approval prediction system including:
